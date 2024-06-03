@@ -20,11 +20,11 @@ Projeto 02 do [MBA Rocketseat Full-stack](https://www.rocketseat.com.br/mba) par
 
 ## 🎨 Protótipo
 
-Protótipo do projeto foi desenvolvido no Figma e pode ser [acessado aqui](files/prototype.fig) (by [Rocketseat](https://github.com/rocketseat) ❤️).
+Protótipo do projeto foi desenvolvido no Figma e pode ser acessado [aqui](files/prototype.fig) (by [Rocketseat](https://github.com/rocketseat) ❤️).
 
 ## 🚀 Visualizar o Projeto
 
-O projeto poderá ser visualizado [clicando aqui](https://danilosalvador.github.io/travelgram/).
+O projeto poderá ser visualizado [aqui](https://danilosalvador.github.io/travelgram/).
 
 ## 📝 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
