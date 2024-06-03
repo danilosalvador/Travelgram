@@ -12,7 +12,7 @@
 
 ## 📖 Sobre
 
-Projeto 01 do [MBA Rocketseat Full-stack](https://www.rocketseat.com.br/mba) para reforçar os conceitos de **CSS com Display Flex**.
+Projeto 02 do [MBA Rocketseat Full-stack](https://www.rocketseat.com.br/mba) para reforçar os conceitos de **CSS com Display Flex**.
 
 <p align="center">  
    <img src="files/banner.png" alt="Banner do projeto"/> 
